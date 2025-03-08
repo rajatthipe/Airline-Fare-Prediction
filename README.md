@@ -1,4 +1,4 @@
-# 🚀 Airlline Fare Prediction using Machine Learning! ✈️📊
+# 🚀 Airlline Fare Prediction using Machine Learning! 📊
 * Ever wondered how airlines price their tickets? 🤔💰 Using Machine Learning, I built a Flight Fare Predictor that helps estimate ticket prices based on multiple factors like airline, stops, duration, and travel date! 🛫
 
 ### 🔍 Here’s how I did it:
