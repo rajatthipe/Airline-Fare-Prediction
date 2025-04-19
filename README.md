@@ -24,7 +24,7 @@
 * ✔️ The model provides reliable fare predictions based on real-world data ✈️.
 * ✔️ Helps travelers and airlines optimize ticket pricing strategies! 💰.
 
-##💡 Why is this important?
+## 💡 Why is this important?
 
 * Helps passengers book at the right time for the best prices 🔍
 * Enables airlines to analyze fare trends 📊
