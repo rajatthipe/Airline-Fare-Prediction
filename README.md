@@ -18,7 +18,13 @@
 
 ## ✅ Evaluation Metrics:
 
-* Mean Absolute Error (MAE), Mean Squared Error (MSE), and RMSE used for accuracy check 📉.
+* Mean Absolute Error (MAE): 1175
+
+* Mean Squared Error (MSE): 4600000
+
+* Root Mean Squared Error (RMSE): 2145
+
+* R² Score (Accuracy): 82%
 
 ## 📊 Results:
 * ✔️ The model provides reliable fare predictions based on real-world data ✈️.
